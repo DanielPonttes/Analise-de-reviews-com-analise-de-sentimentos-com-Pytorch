@@ -17,7 +17,7 @@ Este projeto utiliza o modelo pré-treinado DistilBERT para realizar análises d
 - **Análise de Sentimentos**:Classifica as avaliações em positivas ou negativas. Utiliza o modelo DistilBERT para gerar probabilidades e calcular o sentimento.
 - **Visualização**: Gera gráficos das palavras mais frequentes em avaliações positivas e negativas.
 
-##Como Utilizar
+## Como Utilizar
 
 1. **Pré-requisitos**
 Certifique-se de ter as seguintes bibliotecas instaladas:
