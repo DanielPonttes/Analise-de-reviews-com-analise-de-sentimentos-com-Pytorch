@@ -35,7 +35,7 @@ Instale as dependências usando:
 ` pip install nltk transformers torch matplotlib `
 
 2. **Configuração Inicial**
-3. 
+
 Baixe os recursos necessários do nltk:
 
 ` import nltk ` 
